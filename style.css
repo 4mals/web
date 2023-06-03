@@ -22,8 +22,9 @@ h2 {
   font-size: 80px;
   color: #0fa5e9;
   margin-top: 1px;
-  margin-bottom: 0; /* Update the margin-bottom value to 0 */
+  margin-bottom: 0;
 }
+  
 
 h2 span {
   color: white;
