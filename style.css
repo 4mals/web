@@ -1,3 +1,14 @@
+body { 
+  background-color: #171717;
+  font-size: 16px;
+  font-family: var(--font-inter);
+  min-height: 100vh;
+} 
+  
+code { 
+  font-family: var(--font-mono);
+}
+
 h1 {
   height: 200px;
   display: flex;
@@ -7,12 +18,13 @@ h1 {
   margin-bottom: 10px;
 }
 
-
 h2 {
   font-size: 80px;
   color: #0fa5e9;
   margin-top: 1px;
+  margin-bottom: 0; /* Update the margin-bottom value to 0 */
 }
+
 h2 span {
   color: white;
 }
@@ -21,8 +33,3 @@ h3 {
   color: white;
   margin-bottom: 1px;
 }
-
-body {
-  background-color: #171717;
-}
-
