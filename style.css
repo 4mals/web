@@ -70,3 +70,8 @@ h3 {
 .dark .contact-links a {
   color: #fff;
 }
+.emoji {
+  height: 1em;
+  width: 1em;
+  vertical-align: middle;
+}
