@@ -59,6 +59,12 @@ h3 {
   text-decoration: none;
   font-size: 23px;
   color: inherit;
+  transition: color 0.4s, transform 0.4s;
+}
+
+.contact-links a:hover {
+  color: inherit;
+  transform: scale(1.4);
 }
 
 .dark .contact-links a {
