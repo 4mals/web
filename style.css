@@ -1,3 +1,4 @@
+
 body {
   font-size: 16px;
   min-height: 100vh;
@@ -33,6 +34,14 @@ h2 {
 
 h2 span {
   color: inherit;
+}
+
+.light h2 span {
+  color: #000;
+}
+
+.dark h2 span {
+  color: #fff;
 }
 
 h3 {
