@@ -73,6 +73,7 @@ h3 {
 
 .emoji {
   height: 1.2em;
-  width: 1.em;
-  vertical-align: middle;
-}
+  width: 1.2em;
+  vertical-align: text-top;
+  
+  }
