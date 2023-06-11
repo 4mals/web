@@ -6,12 +6,12 @@ body {
   padding-top: 75px;
 }
 
-.light {
+.light-theme {
   background-color: #fff;
   color: #000;
 }
 
-.dark {
+.dark-theme {
   background-color: #171717;
   color: #fff;
 }
@@ -35,11 +35,11 @@ h2 span {
   color: inherit;
 }
 
-.light h2 span {
+.light-theme h2 span {
   color: #000;
 }
 
-.dark h2 span {
+.dark-theme h2 span {
   color: #fff;
 }
 
@@ -67,7 +67,7 @@ h3 {
   transform: scale(1.4);
 }
 
-.dark .contact-links a {
+.dark-theme .contact-links a {
   color: #fff;
 }
 
