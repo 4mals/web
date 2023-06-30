@@ -1,3 +1,4 @@
+
 body {
   font-size: 16px;
   min-height: 100vh;
@@ -36,7 +37,7 @@ h2 span {
 }
 
 .light-theme h2 span {
-  color: #000;
+  color: #171717;
 }
 
 .dark-theme h2 span {
