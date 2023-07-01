@@ -45,7 +45,16 @@ h2 span {
 
 h3 {
   margin-top: 5px;
+  font-weight: 90;
+  
+}
+
+h4 {
   font-weight: 100;
+  text-align: center;
+  margin-top: 140px;
+  
+  
 }
 
 .contact-links {
@@ -72,6 +81,12 @@ h3 {
 }
 
 .emoji {
+  height: 1.2em;
+  width: 1.2em;
+  vertical-align: text-top;
+}
+
+.emoji2 {
   height: 1.2em;
   width: 1.2em;
   vertical-align: text-top;
