@@ -4,26 +4,20 @@ body {
   font-family: 'JetBrains Mono', sans-serif;
   padding-left: 20px;
   padding-top: 75px;
+  overflow: hidden;
 }
-
-
 html {
   height: inherit;
   width: inherit;
-
-
 }
-
 .light-theme {
   background-color: #fff;
   color: #000;
 }
-
 .dark-theme {
   background-color: #171717;
   color: #fff;
 }
-
 h1 {
   height: 200px;
   display: flex;
@@ -31,38 +25,28 @@ h1 {
   font-size: 60px;
   margin-bottom: 0;
 }
-
 h2 {
   font-size: 70px;
   color: #0fa5e9;
   margin-top: 1px;
   margin-bottom: 0;
 }
-
 h2 span {
   color: inherit;
 }
-
 .light-theme h2 span {
   color: #171717;
 }
-
 .dark-theme h2 span {
   color: #fff;
 }
-
 h3 {
   margin-top: 5px;
   font-weight: 100;
-
 }
-
-
-
 .contact-links {
   margin-top: 20px;
 }
-
 .contact-links a {
   display: inline-block;
   margin-right: 20px;
@@ -72,22 +56,18 @@ h3 {
   color: inherit;
   transition: color 0.4s, transform 0.4s;
 }
-
 .contact-links a:hover {
   color: inherit;
   transform: scale(1.4);
 }
-
 .dark-theme .contact-links a {
   color: #fff;
 }
-
 .emoji {
   height: 1.2em;
   width: 1.2em;
   vertical-align: text-top;
 }
-
 .emoji2 {
   height: 1.2em;
   width: 1.2em;
